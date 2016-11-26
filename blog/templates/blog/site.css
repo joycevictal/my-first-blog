@@ -1,0 +1,176 @@
+body {
+	background-color: #8B1A1A;
+	font-family: "Crimson Text", "Times New Roman", serif;
+	font-size: 120%;
+	line-height: 1.5;
+}
+
+h1, h2 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+	font-size: 30px;
+}
+
+.titulo {
+	background-color: #851944;
+	color: #FFF;
+	text-align: center;
+	padding: 25px;
+	border-bottom: 10px solid black;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: justify;
+	margin: 20px 0;
+}
+
+.depoimento {
+	background-color: #D9E5E3;
+	border: 10px solid #C2CCCA;
+	width: 250px;
+	box-sizing: border-box;
+	margin: 20px 40px;
+    padding: 20px;
+}
+
+.fiat {
+	float: right;
+}
+
+.petrobras {
+	float: left;
+}
+
+cite {
+	font-style: italic;	
+	float: right;
+}
+
+h2 {
+	clear: both;
+}
+
+.navegacao-site {
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	text-align: center;
+	padding: 20px;
+	text-transform: lowercase;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+	position: absolute;
+	top: 310px;
+	right: 0;
+}
+
+.fotojoao, .navegacao-site {
+	float: right;
+	box-sizing: border-box;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+}
+
+.fotojoao {
+	width: 310px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+.rodape-pagina {
+	background-color: #000;
+	color: #8B0000;
+	padding: 20px;
+	clear: both;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+clearfix {
+	clear: both;
+}
+
+nav a {
+    color: #F2FFFC;
+
+}
+
+main a {
+    color: #851944;
+
+}
+
+.principal {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+
+.navegacao-site h1{
+	font-size: 30px;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+.icones-sociais li {
+	display: inline-block;
+}
+
+.icones-sociais a{
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-indent: -99999px;
+}
+
+.github {
+	background-image: url(../img/github.png);
+}
+
+.twitter {
+	background-image: url(../img/twitter.png);
+}
+
+.linkedin {
+	background-image: url(../img/linkedin.png);
+}
+
+article {
+	padding-top: 30px;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 20px;
+}
+
+.leia-mais {
+	font-size: 24px;
+	padding: 8px;
+	margin: 16px;
+	display: block;
+	background-color: #F5F5F5;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+main {
+	float: left;
+	width: 85%;
+	padding-bottom: 80px;
+}
