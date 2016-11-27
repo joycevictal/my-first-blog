@@ -13,13 +13,7 @@
     <body>
         <main>
             <h1 class="titulo">Joyce Victal</h1>
-		     {% for post in posts %}
-		    <div>
-		        <p>published: {{ post.published_date }}</p>
-		        <h1><a href="">{{ post.title }}</a></h1>
-		        <p>{{ post.text|linebreaksbr }}</p>
-		    </div>
-		    {% endfor %}
+{				{ posts }}
 		</main>	
     </body>
 
