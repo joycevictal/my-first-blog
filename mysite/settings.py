@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'joycevictal.pythonanywhere.com',
-    'joycevictal.com',
+    'www.joycevictal.com',
 ]
 
 
