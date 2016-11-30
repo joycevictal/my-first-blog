@@ -109,6 +109,12 @@ h1, h2, h3, h4 {
     float: right;
 }
 
+ul {
+
+list-style-type: none;
+
+}
+
 aside a {
     color: inherit;
     font-family: "Open Sans Condensed", sans-serif;
