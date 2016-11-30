@@ -21,12 +21,14 @@ h2 a {
     font-family: 'Chicle', cursive;
 }
 
+.about-me a {
+    color: #000000;
+}
+
 .about-me {
-    color: #FCA205;
-    font-family: 'Chicle', cursive;
-    background-color: #ff9400;
+    color: #000000;
     margin-top: 0;
-    margin-left: 0; 
+    margin-left: 40px; 
     padding: 20px 20px 20px 40px;
 }
 
@@ -86,6 +88,8 @@ h1, h2, h3, h4 {
 
 .icones-sociais li {
     display: inline-block;
+    color: #ffffff;
+    background-color: #ff9400;   
 }
 
 .icones-sociais a {
