@@ -68,7 +68,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: ##FFFFFF;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -97,15 +97,14 @@ h1, h2, h3, h4 {
 
 .icones-sociais li {
     display: inline-block;
-    color: #ffffff;
+    color: #FFFFFF;
     background-color: #ff9400;   
 }
 
 .icones-sociais a {
-    color: #ffffff;
+    color: #FFFFFF;
     width: 40px;
     height: 40px;
-    display: block;
     text-indent: -99999px;
     float: right;
 }
