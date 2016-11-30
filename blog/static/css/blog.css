@@ -16,7 +16,7 @@ h1 a {
 }
 
 h2 a {
-    color: #FCA205;
+    color: #FFFFFF;
     font-family: 'Chicle', cursive;
 }
 
@@ -96,8 +96,9 @@ h1, h2, h3, h4 {
 
 .icones-sociais li {
     display: inline-block;
-    color: #FFFFFF;
-    background-color: #ff9400;   
+    color: inherit;
+    background-color: #ff9400;  
+    float: right; 
 }
 
 .icones-sociais a {
