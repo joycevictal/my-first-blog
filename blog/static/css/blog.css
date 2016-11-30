@@ -28,7 +28,7 @@ h2 a {
 .about-me {
     color: #000000;
     margin-top: 0;
-    margin-left: 40px; 
+    margin-left: 0px; 
     padding: 20px 20px 20px 40px;
 }
 
@@ -83,7 +83,16 @@ h1, h2, h3, h4 {
 }
 
 .rodape-pagina {
-    
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
 }
 
 .icones-sociais li {
