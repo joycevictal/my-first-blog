@@ -1,4 +1,4 @@
-.page-header h2 a {
+.page-header h2 {
     color: #ffffff;
     margin-top: 0;
     margin-left: 0; 
@@ -68,7 +68,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: ##FFFFFF;
+    color: #FFFFFF;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
