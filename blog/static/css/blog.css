@@ -102,11 +102,16 @@ h1, h2, h3, h4 {
 }
 
 .icones-sociais a {
-    color: #FFFFFF;
     width: 40px;
     height: 40px;
+    display: block;
     text-indent: -99999px;
     float: right;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
 }
 
 .github {
