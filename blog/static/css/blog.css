@@ -77,14 +77,14 @@ aside, ul {
     color: #FFFFFF;
 }
 
-.content h2 {
+.about_me h2 {
     clear: both;
     font-family: 'Norican', cursive;
     font-size: 30px;
     padding-bottom: 20px;
 }
 
-.content div {
+.about_me div {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
 }
