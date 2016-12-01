@@ -52,6 +52,20 @@ body {
 
 }
 
+aside {
+    width: 150px;
+    float: right;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 800px;
+    color: inherit;
+}
+
 .content h2 {
     clear: both;
 }
@@ -66,9 +80,6 @@ body {
     display: block;
     text-indent: -99999px;
     color: #FFFFFF;
-    float: right;
-    padding: 0;
-    margin: 0;
 }
 
 .rodape-pagina {
@@ -116,13 +127,13 @@ clearfix {
 }
 
 .github {
-    background-image: url(../templates/blog/github.png);
+    background-image: url(/Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/github.png);
 }
 
 .twitter {
-    background-image: url(../templates/blog/twitter.png);
+    background-image: url(Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/twitter.png);
 }
 
 .linkedin {
-    background-image: url(../templates/blog/linkedin.png);
+    background-image: url(Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/linkedin.png);
 }
