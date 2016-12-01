@@ -86,9 +86,8 @@ aside, ul {
 
 .about_me {
     font-family: 'Open Sans', sans-serif;
-    line-height: 1.5;
+    line-height: 2;
     margin: 50px;
-    width: 550px;
 }
 
 .about_me p {
@@ -134,7 +133,7 @@ clearfix {
     margin-top: 20px;
 }
 
-.post, .row {
+.post, .row, .col-md-8{
     margin-bottom: 70px;
     margin: 50px 50px;
 }
@@ -143,7 +142,7 @@ clearfix {
     font-family: 'Norican', cursive;
     font-size: 30px;
     padding-bottom: 20px;
-    margin: 50px 50px;
+    margin: 0;
 }
 
 .post h1 a, .post h1 a:visited {
