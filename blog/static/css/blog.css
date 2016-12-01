@@ -56,6 +56,10 @@ body {
     clear: both;
 }
 
+.icones-sociais ul {
+    float: right;
+}
+
 .icones-sociais li {
     display: inline-block;
 }
