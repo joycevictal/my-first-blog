@@ -138,6 +138,7 @@ clearfix {
     margin: auto;
     font-family: 'Open Sans', sans-serif;
     line-height: 2;
+    text-align: justify;
 }
 
 .post h1, .row h1 {
