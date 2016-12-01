@@ -55,6 +55,14 @@ body {
     clear: both;
 }
 
+aside {
+    float: right;
+    width: 250px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 ul {
     float: right;
     width: 250px;
