@@ -49,6 +49,7 @@ body {
     width: 250px;
     box-sizing: border-box;
     display: inline-block;
+    float: right;
 }
 
 .content h2 {
