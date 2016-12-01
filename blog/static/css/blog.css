@@ -132,11 +132,11 @@ clearfix {
     margin-top: 20px;
 }
 
-.post {
+.post, .div {
     margin-bottom: 70px;
 }
 
-.post h1 {
+.post, .div h1 {
     font-family: 'Norican', cursive;
     font-size: 30px;
     padding-bottom: 20px;
