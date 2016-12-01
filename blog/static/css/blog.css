@@ -89,6 +89,12 @@ aside, ul {
     line-height: 1.5;
 }
 
+.about-me p {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
 .rodape-pagina {
     background-color: #FFFAF0;
     color: #8B0000; 
