@@ -6,6 +6,7 @@ body {
     background-color: #B22222;
     color: #FFFAFA;
     padding: 5px;
+    margin: 0;
 }
 
 .title {
@@ -61,7 +62,7 @@ aside {
     top: 0;
     bottom: 0;
     right: 0;
-    left: 800px;
+    left: 600px;
 }
 
 .icones-sociais li {
