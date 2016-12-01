@@ -2,7 +2,7 @@ body {
     background-color: #FFFAFA;
 }
 
-.page_header {
+.page-header {
     background-color: #B22222;
     color: #FFFAFA;
     padding: 5px;
@@ -74,24 +74,6 @@ aside {
     display: block;
     text-indent: -99999px;
     color: inherit;
-}
-
-.about-me {
-    clear: both;
-    margin: 30px;
-    padding: 0;
-    line-height: 1.5;
-    background-color: #FFFAFA;
-}   
-
-.about-me h2{
-    font-family: 'Norican', cursive;
-    font-size: 30px;
-    padding-bottom: 20px;
-}
-
-.about-me p {
-    font-family: 'Open Sans', sans-serif;
 }
 
 .rodape-pagina {
