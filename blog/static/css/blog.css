@@ -65,7 +65,10 @@ body {
     height: 40px;
     display: block;
     text-indent: -99999px;
-    color: inherit;
+    color: #FFFFFF;
+    float: right;
+    padding: 0;
+    margin: 0;
 }
 
 .rodape-pagina {
