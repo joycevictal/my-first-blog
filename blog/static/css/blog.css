@@ -139,13 +139,13 @@ clearfix {
 }
 
 .github {
-    background-image: url(../blog/github.png);
+    background-image: url(../templates/blog/github.png);
 }
 
 .twitter {
-    background-image: url(../blog/twitter.png);
+    background-image: url(../templates/blog/twitter.png);
 }
 
 .linkedin {
-    background-image: url(../blog/linkedin.png);
+    background-image: url(../templates/blog/linkedin.png);
 }
