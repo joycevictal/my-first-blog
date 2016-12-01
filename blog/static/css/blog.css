@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 
-.title {
+.title a {
     color: #FFFAFA;
     font-family: 'Norican', cursive;
     font-size: 50px;
@@ -23,7 +23,7 @@ body {
     display: inline-block;
 }
 
-.magic {
+.magic a {
     color: #FFFAFA;
     font-family: 'Chicle', cursive;
     font-size: 80px;
