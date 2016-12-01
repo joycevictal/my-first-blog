@@ -51,23 +51,12 @@ body {
     display: inline-block;
 }
 
-.content h2 {
-    clear: both;
-}
-
-aside {
+aside, ul {
     float: right;
     width: 250px;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
-}
-
-ul {
-    float: right;
-    width: 250px;
-    padding: 0;
-    margin: 0;
+    margin-right: 10px;
     box-sizing: border-box;
 }
 
@@ -81,6 +70,10 @@ ul {
     display: block;
     text-indent: -99999px;
     color: #FFFFFF;
+}
+
+.content h2 {
+    clear: both;
 }
 
 .rodape-pagina {
@@ -117,6 +110,7 @@ clearfix {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top: 5px;
 }
 
 .post {
