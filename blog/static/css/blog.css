@@ -49,9 +49,6 @@ body {
     width: 250px;
     box-sizing: border-box;
     display: inline-block;
-    clear: right;
-    float: right;
-
 }
 
 .content h2 {
