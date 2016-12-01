@@ -113,13 +113,13 @@ clearfix {
 }
 
 .github {
-    background-image: url(/Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/github.png);
+    background-image: url(github.png);
 }
 
 .twitter {
-    background-image: url(Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/twitter.png);
+    background-image: url(twitter.png);
 }
 
 .linkedin {
-    background-image: url(Users/joycevictal/Documents/Joyce/DjangoGirls/blog/templates/blog/linkedin.png);
+    background-image: url(linkedin.png);
 }
