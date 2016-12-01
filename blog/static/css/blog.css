@@ -134,12 +134,14 @@ clearfix {
 
 .post, .row {
     margin-bottom: 70px;
+    margin: 50px 50px;
 }
 
 .post h1, .row h1 {
     font-family: 'Norican', cursive;
     font-size: 30px;
     padding-bottom: 20px;
+    margin: 50px 50px;
 }
 
 .post h1 a, .post h1 a:visited {
