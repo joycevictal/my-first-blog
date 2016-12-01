@@ -4,19 +4,17 @@
     <head>
         <meta charset="UTF-8">
         <title>Blog - Joyce Victal</title>
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/reset.css">
-        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
-        <link href="https://fonts.googleapis.com/css?family=Chicle|Open+Sans" rel="stylesheet">    
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="draft_blog.css">
+        <link href="https://fonts.googleapis.com/css?family=Chicle|Lily+Script+One|Norican|Open+Sans" rel="stylesheet">
     </head>
          <body>
             <div class="page-header">
-                <a href="{% url 'post_new' %}" class="top-menu">
-                    <span class="glyphicon glyphicon-plus"></span>
+                <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span>
                 </a>
-                <h1><a href="/">Time to do MAGIC!</a></h1>
-                <h2>By Joyce Victal</h2>
+                <h1 class="title">Time to do...</h1>
+                <h1 class="magic"> magic !</h1>
+                <h2 class="signature">By Joyce Victal</h2>
                 <aside>
                     <ul class="icones-sociais">
                         <li><a href="https://github.com/joycevictal" class="github">Gitbhub</a></li>
@@ -26,10 +24,9 @@
                 </aside>    
             </div>
             <div class="about-me">
-                <h2><a>About me:</a></h2>
+                <h2>About me:</h2>
                 <p>Hello! I am Joyce... After some time working in finance and with lots of encouragement from my husband Leo... My proudest! :) Then, I decided to expand my knowledge in information technology and   currently I have been study heavily to be a web developer.</p>
             </div>
-
             <div class="content container">
                 <div class="row">
                     <div class="col-md-8">

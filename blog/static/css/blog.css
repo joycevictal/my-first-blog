@@ -1,57 +1,113 @@
-.page-header h2 {
-    color: #ffffff;
-    margin-top: 0;
-    margin-left: 0; 
-    padding: 20px 20px 20px 40px;
-    clear: right;
-}
-
 body {
-    padding-left: 0px;
-    font-family: 'Open Sans', sans-serif;
-}
-
-h1 a {
-    color: #FCA205;
-    font-family: 'Chicle', cursive;
-}
-
-h2 a {
-    color: #FCA205;
-    font-family: 'Chicle', cursive;
-}
-
-.about-me a {
-    color: #000000;
-}
-
-.about-me {
-    color: #000000;
-    margin-top: 0;
-    margin-left: 0px; 
-    padding: 20px 20px 20px 40px;
+    background-color: #FFFAFA;
 }
 
 .page-header {
-    background-color: #ff9400;
-    margin-top: 0;
-    margin-left: 0; 
-    padding: 20px 20px 20px 40px;
+    background-color: #B22222;
+    color: #FFFAFA;
+    padding: 5px;
 }
 
-.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
-    font-size: 36pt;
-    text-decoration: none;
+.title {
+    color: #FFFAFA;
+    font-family: 'Norican', cursive;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin: 0;
+    width: 350px;
+    box-sizing: border-box;
+    float: left;
+    display: inline-block;
 }
 
-.content {
-    margin-left: 40px;
-}
-
-h1, h2, h3, h4 {
+.magic {
+    color: #FFFAFA;
     font-family: 'Chicle', cursive;
-    letter-spacing: 1.5;
+    font-size: 80px;
+    text-transform: uppercase; 
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-right: 600px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.signature {
+    color: #FFFAFA;
+    font-family: 'Norican', cursive;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    margin: 0;
+    width: 250px;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+
+aside {
+    width: 150px;
+    float: right;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 800px;
+}
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.icones-sociais a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-indent: -99999px;
+    color: inherit;
+}
+
+.about-me {
+    clear: both;
+    margin: 30px;
+    padding: 0;
+    line-height: 1.5;
+    background-color: #FFFAFA;
+}   
+
+.about-me h2{
+    font-family: 'Norican', cursive;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.about-me p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.rodape-pagina {
+    background-color: #FFFAF0;
+    color: #8B0000; 
+    padding: 10px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+clearfix {
+    clear: both;
 }
 
 .date {
@@ -80,43 +136,6 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
-}
-
-.rodape-pagina {
-    background-color: #000;
-    color: #F2FFFC;
-    padding: 20px;
-    clear: both;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    box-sizing: border-box;
-}
-}
-
-.icones-sociais li {
-    display: inline-block;
-    color: #FFFFFF;
-    background-color: #ff9400;   
-}
-
-.icones-sociais a {
-    width: 40px;
-    height: 40px;
-    display: block;
-    text-indent: -99999px;
-    float: right;
-}
-
-ul {
-
-list-style-type: none;
-
-}
-
-aside a {
-    color: inherit;
 }
 
 .github {
