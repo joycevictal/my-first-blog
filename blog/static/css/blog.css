@@ -65,6 +65,10 @@ aside {
     left: 600px;
 }
 
+.content h2 {
+    clear: both;
+}
+
 .icones-sociais li {
     display: inline-block;
 }
