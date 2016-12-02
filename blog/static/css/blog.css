@@ -135,6 +135,7 @@ clearfix {
 
 .post, .row, .col-md-8, .content{
     margin-bottom: 70px;
+    margin-top: 70px;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
     line-height: 2;
