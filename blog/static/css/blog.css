@@ -87,7 +87,7 @@ aside, ul {
 .about_me {
     font-family: 'Open Sans', sans-serif;
     line-height: 2;
-    margin: 50px;
+    margin: auto;
 }
 
 .about_me p {
