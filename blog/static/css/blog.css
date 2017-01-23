@@ -11,7 +11,7 @@ body {
 
 .title a {
     color: #FFFAFA;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Norican', cursive;
     font-size: 50px;
     padding-left: 50px;
     padding-bottom: 50px;
@@ -92,7 +92,7 @@ aside, ul {
 
 .about_me p {
     font-family: 'Open Sans', sans-serif;
-    padding: 0;
+    padding: 0, auto;
     margin-bottom: 50px;
 }
 
