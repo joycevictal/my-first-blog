@@ -19,21 +19,6 @@ body {
     margin: 0;
     width: 350px;
     box-sizing: border-box;
-    float: left;
-    display: inline-block;
-}
-
-.magic a {
-    color: #FFFAFA;
-    font-family: 'Chicle', 'Chewy', 'Permanent Maker' cursive;
-    font-size: 80px;
-    text-transform: uppercase; 
-    padding-right: 50px;
-    padding-bottom: 50px;
-    padding-top: 30px;
-    margin-right: 600px;
-    box-sizing: border-box;
-    float: right;
 }
 
 .signature {
